@@ -1,2 +1,1 @@
-# Tic-Tac-Toe
-Tic-Tac-Toe Arduino Project
+# Tic-Tac-Toe Arduino Project
